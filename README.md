@@ -1,1 +1,0 @@
-﻿Fully Responsive portfolio project
